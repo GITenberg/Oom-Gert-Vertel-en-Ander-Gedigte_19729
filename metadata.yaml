@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8845
     wikipedia: http://en.wikipedia.org/wiki/C._Louis_Leipoldt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19729#Oom-Gert-Vertel-en-Ander-Gedigte
 gutenberg_bookshelf: South Africa
 gutenberg_issued: '2006-11-06'
 gutenberg_type: Text
