@@ -1,0 +1,33 @@
+_repo: Oom-Gert-Vertel-en-Ander-Gedigte_19729
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19729-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leipoldt, C. Louis (Christiaan Louis)
+    aliases:
+    - Leipoldt, Christiaan Louis
+    - Leipoldt, Louis
+    - Leipoldt, C. Louis (Christiaan Louis)
+    - Pheidippides
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '8845'
+    url: http://www.gutenberg.org/2009/agents/8845
+    wikipedia: http://en.wikipedia.org/wiki/C._Louis_Leipoldt
+description: ''
+gutenberg_bookshelf: South Africa
+gutenberg_issued: '2006-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19729'
+language: af
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PT'
+title: Oom Gert Vertel en Ander Gedigte
+url: http://www.gutenberg.org/ebooks/19729
